@@ -267,11 +267,11 @@ warp i jp
 ## warp-go 运行脚本
 首次运行
 ```
-wget -N https://gitlab.com/fscarmen/warp/-/raw/main/warp-go.sh && bash warp-go.sh [option] [lisence]
+https://raw.githubusercontent.com/HkGgg8555/warp-backup/140b5ec6b61bf78dc1b3452b60dfe30d9b672421/menu.sh
 ```
 再次运行
 ```bash
-warp-go [option] [lisence]
+warp
 ```
   | [option] 变量1 变量2 | 具体动作说明 |
   | ----------------- | --------------- |
