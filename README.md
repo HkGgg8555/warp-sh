@@ -220,7 +220,7 @@
 
 首次运行
 ```
-wget -N https://raw.githubusercontent.com/HkGgg8555/warp-backup/140b5ec6b61bf78dc1b3452b60dfe30d9b672421/menu.sh && bash ./menu.sh [option] [lisence/url/token]
+rm -rf ~/warp-backup-run && git clone git@github.com:HkGgg8555/warp-backup.git ~/warp-backup-run && cd ~/warp-backup-run && git checkout 140b5ec6b61bf78dc1b3452b60dfe30d9b672421 && bash ./menu.sh [option] [lisence/url/token]
 ```
 再次运行
 ```
