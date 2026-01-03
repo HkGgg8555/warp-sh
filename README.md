@@ -267,7 +267,7 @@ warp i jp
 ## warp-go 运行脚本
 首次运行
 ```
-https://raw.githubusercontent.com/HkGgg8555/warp-backup/140b5ec6b61bf78dc1b3452b60dfe30d9b672421/menu.sh
+wget -N https://raw.githubusercontent.com/HkGgg8555/warp-backup/140b5ec6b61bf78dc1b3452b60dfe30d9b672421/menu.sh && bash ./menu.sh
 ```
 再次运行
 ```bash
